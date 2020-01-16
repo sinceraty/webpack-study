@@ -1,2 +1,2 @@
 # weppack-study
-联系webpack
+根据官网示例练习 webpack
